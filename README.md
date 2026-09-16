@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Senior year student, specializing as a technician programmer at Technikum Komunikacji in Poznań
+Final-year student, specializing as a technician programmer at Technikum Komunikacji in Poznań
 
 I'm currently preparing for my INF.04 vocational exam in January, by building mobile, desktop, 
 console and web applications to strengthen my practical skills
