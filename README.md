@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Senior year student, specializing as a technician programmer at Technikum Komunikacji in Poznań
+
+I'm currently preparing for my INF.04 vocational exam in January, by building mobile, desktop, 
+console and web applications to strengthen my practical skills
+
+Alongside my vocational studies, I'm revising for my Matura exams in May, focusing on mathematics and algorithms,
+while also keeping in mind other core subjects
+
+Overall I'm aiming to ace the upcoming exams and pick a fulfilling major at one of my local universities
 <!--
 **WiktorWaligorski/WiktorWaligorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
